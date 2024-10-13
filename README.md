@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Diogo Alexandre Oliveira da Silva!
 
-I’m a recent Computer Science Engineering graduate from [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) and a passionate security enthusiast, currently studying Cybersecurity at [FCUP]([https://sigarra.up.pt/feup/pt/web_page.inicial](https://www.up.pt/fcup/pt/)).
+I’m a recent Computer Science Engineering graduate from [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) and a passionate security enthusiast, currently studying Cybersecurity at [FCUP](https://sigarra.up.pt/feup/pt/web_page.inicial](https://www.up.pt/fcup/pt/)).
 
 ## 🎓 Career Roles
 
