@@ -19,7 +19,7 @@ I have hands-on experience in developing secure communication solutions at **Vor
 
 ## 🎯 Interests
 
-I am passionate about exploring vulnerabilities and developing robust security solutions. Outside of technology, I enjoy music engineering and physical exercise such as football despit having a background in martial arts.
+I am passionate about exploring vulnerabilities and developing robust security solutions. Outside of technology, I enjoy music engineering and physical exercise such as football and gym.
 
 ## 🤝 Let's Connect!
 
