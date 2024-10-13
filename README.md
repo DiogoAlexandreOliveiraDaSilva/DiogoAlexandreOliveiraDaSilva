@@ -26,7 +26,7 @@ I am passionate about exploring vulnerabilities and developing robust security s
 I’m always open to discussions about collaboration and innovation in cybersecurity. Feel free to reach out:
 
 - [LinkedIn](https://www.linkedin.com/in/diogoalexandreoliveiradasilva/)
-- [diogoalexandreoliveiradasilva@gmail.com]
+- diogoalexandreoliveiradasilva@gmail.com
 
 ---
 
